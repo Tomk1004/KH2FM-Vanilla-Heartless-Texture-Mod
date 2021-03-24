@@ -1,1 +1,420 @@
-title: Vanilla KH2 Heartless Texture PackoriginalAuthor: Tomk1004description: Replaces all Heartless that had their texture changed in KH2FM back to their original KH2 Vanilla texturesassets:- name: obj\B_BB100.mdlx  method: copy  source:  - name: obj\B_BB100.mdlx- name: obj\B_BB100_GM.mdlx  method: copy  source:  - name: obj\B_BB100_GM.mdlx- name: obj\B_BB100_TSURU.mdlx  method: copy  source:  - name: obj\B_BB100_TSURU.mdlx- name: obj\B_CA000.mdlx  method: copy  source:  - name: obj\B_CA000.mdlx- name: obj\B_CA050.mdlx  method: copy  source:  - name: obj\B_CA050.mdlx- name: obj\B_CA050_GM.mdlx  method: copy  source:  - name: obj\B_CA050_GM.mdlx- name: obj\B_CA060.mdlx  method: copy  source:  - name: obj\B_CA060.mdlx- name: obj\B_LK120.mdlx  method: copy  source:  - name: obj\B_LK120.mdlx- name: obj\B_LK120_GM.mdlx  method: copy  source:  - name: obj\B_LK120_GM.mdlx- name: obj\B_MU120.mdlx  method: copy  source:  - name: obj\B_MU120.mdlx- name: obj\B_MU120_GM.mdlx  method: copy  source:  - name: obj\B_MU120_GM.mdlx- name: obj\B_NM100.mdlx  method: copy  source:  - name: obj\B_NM100.mdlx- name: obj\B_NM100_GM.mdlx  method: copy  source:  - name: obj\B_NM100_GM.mdlx- name: obj\M_AL020_FIRE.mdlx  method: copy  source:  - name: obj\M_AL020_FIRE.mdlx- name: obj\M_AL020_FIRE2.mdlx  method: copy  source:  - name: obj\M_AL020_FIRE2.mdlx- name: obj\M_AL020_FIRE_RAW.mdlx  method: copy  source:  - name: obj\M_AL020_FIRE_RAW.mdlx- name: obj\M_AL020_ICEE.mdlx  method: copy  source:  - name: obj\M_AL020_ICEE.mdlx- name: obj\M_AL020_ICEE2.mdlx  method: copy  source:  - name: obj\M_AL020_ICEE2.mdlx- name: obj\M_AL020_ICEE_RAW.mdlx  method: copy  source:  - name: obj\M_AL020_ICEE_RAW.mdlx- name: obj\M_BB010_AX.mdlx  method: copy  source:  - name: obj\M_BB010_AX.mdlx- name: obj\M_BB010_SWORD.mdlx  method: copy  source:  - name: obj\M_BB010_SWORD.mdlx- name: obj\M_EX010.mdlx  method: copy  source:  - name: obj\M_EX010.mdlx- name: obj\M_EX010_NM.mdlx  method: copy  source:  - name: obj\M_EX010_NM.mdlx- name: obj\M_EX010_TR.mdlx  method: copy  source:  - name: obj\M_EX010_TR.mdlx- name: obj\M_EX010_WI.mdlx  method: copy  source:  - name: obj\M_EX010_WI.mdlx- name: obj\M_EX020.mdlx  method: copy  source:  - name: obj\M_EX020.mdlx- name: obj\M_EX020_NM.mdlx  method: copy  source:  - name: obj\M_EX020_NM.mdlx- name: obj\M_EX020_NM_RAW.mdlx  method: copy  source:  - name: obj\M_EX020_NM_RAW.mdlx- name: obj\M_EX020_RAW.mdlx  method: copy  source:  - name: obj\M_EX020_RAW.mdlx- name: obj\M_EX020_WI.mdlx  method: copy  source:  - name: obj\M_EX020_WI.mdlx- name: obj\M_EX020_WI_RAW.mdlx  method: copy  source:  - name: obj\M_EX020_WI_RAW.mdlx- name: obj\M_EX050.mdlx  method: copy  source:  - name: obj\M_EX050.mdlx- name: obj\M_EX050_WI.mdlx  method: copy  source:  - name: obj\M_EX050_WI.mdlx- name: obj\M_EX060.mdlx  method: copy  source:  - name: obj\M_EX060.mdlx- name: obj\M_EX090_MATSU.mdlx  method: copy  source:  - name: obj\M_EX090_MATSU.mdlx- name: obj\M_EX110.mdlx  method: copy  source:  - name: obj\M_EX110.mdlx- name: obj\M_EX120.mdlx  method: copy  source:  - name: obj\M_EX120.mdlx- name: obj\M_EX120_NM.mdlx  method: copy  source:  - name: obj\M_EX120_NM.mdlx- name: obj\M_EX120_TR.mdlx  method: copy  source:  - name: obj\M_EX120_TR.mdlx- name: obj\M_EX130.mdlx  method: copy  source:  - name: obj\M_EX130.mdlx- name: obj\M_EX130_AL.mdlx  method: copy  source:  - name: obj\M_EX130_AL.mdlx- name: obj\M_EX200.mdlx  method: copy  source:  - name: obj\M_EX200.mdlx- name: obj\M_EX200_NM.mdlx  method: copy  source:  - name: obj\M_EX200_NM.mdlx- name: obj\M_EX210.mdlx  method: copy  source:  - name: obj\M_EX210.mdlx- name: obj\M_EX310_NPC.mdlx  method: copy  source:  - name: obj\M_EX310_NPC.mdlx- name: obj\M_EX320_NPC.mdlx  method: copy  source:  - name: obj\M_EX320_NPC.mdlx- name: obj\M_EX350.mdlx  method: copy  source:  - name: obj\M_EX350.mdlx- name: obj\M_EX420.mdlx  method: copy  source:  - name: obj\M_EX420.mdlx- name: obj\M_EX420_NM.mdlx  method: copy  source:  - name: obj\M_EX420_NM.mdlx- name: obj\M_EX500.mdlx  method: copy  source:  - name: obj\M_EX500.mdlx- name: obj\M_EX500_GM.mdlx  method: copy  source:  - name: obj\M_EX500_GM.mdlx- name: obj\M_EX500_NM.mdlx  method: copy  source:  - name: obj\M_EX500_NM.mdlx- name: obj\M_EX510.mdlx  method: copy  source:  - name: obj\M_EX510.mdlx- name: obj\M_EX520.mdlx  method: copy  source:  - name: obj\M_EX520.mdlx- name: obj\M_EX520_AL.mdlx  method: copy  source:  - name: obj\M_EX520_AL.mdlx- name: obj\M_EX530.mdlx  method: copy  source:  - name: obj\M_EX530.mdlx- name: obj\M_EX530_TR.mdlx  method: copy  source:  - name: obj\M_EX530_TR.mdlx- name: obj\M_EX540.mdlx  method: copy  source:  - name: obj\M_EX540.mdlx- name: obj\M_EX540_WI.mdlx  method: copy  source:  - name: obj\M_EX540_WI.mdlx- name: obj\M_EX550.mdlx  method: copy  source:  - name: obj\M_EX550.mdlx- name: obj\M_EX550_WI.mdlx  method: copy  source:  - name: obj\M_EX550_WI.mdlx- name: obj\M_EX560.mdlx  method: copy  source:  - name: obj\M_EX560.mdlx- name: obj\M_EX560_WI.mdlx  method: copy  source:  - name: obj\M_EX560_WI.mdlx- name: obj\M_EX570.mdlx  method: copy  source:  - name: obj\M_EX570.mdlx- name: obj\M_EX580.mdlx  method: copy  source:  - name: obj\M_EX580.mdlx- name: obj\M_EX590.mdlx  method: copy  source:  - name: obj\M_EX590.mdlx- name: obj\M_EX600.mdlx  method: copy  source:  - name: obj\M_EX600.mdlx- name: obj\M_EX600_LC.mdlx  method: copy  source:  - name: obj\M_EX600_LC.mdlx- name: obj\M_EX600_LC_ATK.mdlx  method: copy  source:  - name: obj\M_EX600_LC_ATK.mdlx- name: obj\M_EX600_LC_CHG.mdlx  method: copy  source:  - name: obj\M_EX600_LC_CHG.mdlx- name: obj\M_EX600_LC_GRD.mdlx  method: copy  source:  - name: obj\M_EX600_LC_GRD.mdlx- name: obj\M_EX610.mdlx  method: copy  source:  - name: obj\M_EX610.mdlx- name: obj\M_EX610_RAW.mdlx  method: copy  source:  - name: obj\M_EX610_RAW.mdlx- name: obj\M_EX620.mdlx  method: copy  source:  - name: obj\M_EX620.mdlx- name: obj\M_EX620_AL.mdlx  method: copy  source:  - name: obj\M_EX620_AL.mdlx- name: obj\M_EX630.mdlx  method: copy  source:  - name: obj\M_EX630.mdlx- name: obj\M_EX640.mdlx  method: copy  source:  - name: obj\M_EX640.mdlx- name: obj\M_EX640_WI.mdlx  method: copy  source:  - name: obj\M_EX640_WI.mdlx- name: obj\M_EX650.mdlx  method: copy  source:  - name: obj\M_EX650.mdlx- name: obj\M_EX650_TR.mdlx  method: copy  source:  - name: obj\M_EX650_TR.mdlx- name: obj\M_EX670.mdlx  method: copy  source:  - name: obj\M_EX670.mdlx- name: obj\M_EX680.mdlx  method: copy  source:  - name: obj\M_EX680.mdlx- name: obj\M_EX690.mdlx  method: copy  source:  - name: obj\M_EX690.mdlx- name: obj\M_EX700.mdlx  method: copy  source:  - name: obj\M_EX700.mdlx- name: obj\M_EX700_NM.mdlx  method: copy  source:  - name: obj\M_EX700_NM.mdlx- name: obj\M_EX710.mdlx  method: copy  source:  - name: obj\M_EX710.mdlx- name: obj\M_EX720.mdlx  method: copy  source:  - name: obj\M_EX720.mdlx- name: obj\M_EX730.mdlx  method: copy  source:  - name: obj\M_EX730.mdlx- name: obj\M_EX740.mdlx  method: copy  source:  - name: obj\M_EX740.mdlx- name: obj\M_EX750.mdlx  method: copy  source:  - name: obj\M_EX750.mdlx- name: obj\M_EX750_NM.mdlx  method: copy  source:  - name: obj\M_EX750_NM.mdlx- name: obj\M_EX760.mdlx  method: copy  source:  - name: obj\M_EX760.mdlx- name: obj\M_EX760_CROWD.mdlx  method: copy  source:  - name: obj\M_EX760_CROWD.mdlx- name: obj\M_EX760_NM.mdlx  method: copy  source:  - name: obj\M_EX760_NM.mdlx- name: obj\M_EX760_NM_RAW.mdlx  method: copy  source:  - name: obj\M_EX760_NM_RAW.mdlx- name: obj\M_EX760_NPC.mdlx  method: copy  source:  - name: obj\M_EX760_NPC.mdlx- name: obj\M_EX760_RAW.mdlx  method: copy  source:  - name: obj\M_EX760_RAW.mdlx- name: obj\M_EX770.mdlx  method: copy  source:  - name: obj\M_EX770.mdlx- name: obj\M_EX770_NPC.mdlx  method: copy  source:  - name: obj\M_EX770_NPC.mdlx- name: obj\M_EX770_RAW.mdlx  method: copy  source:  - name: obj\M_EX770_RAW.mdlx- name: obj\M_EX770_TR.mdlx  method: copy  source:  - name: obj\M_EX770_TR.mdlx- name: obj\M_EX770_TR_RAW.mdlx  method: copy  source:  - name: obj\M_EX770_TR_RAW.mdlx- name: obj\M_EX780.mdlx  method: copy  source:  - name: obj\M_EX780.mdlx- name: obj\M_EX790.mdlx  method: copy  source:  - name: obj\M_EX790.mdlx- name: obj\M_EX790_CHRISTMAS.mdlx  method: copy  source:  - name: obj\M_EX790_CHRISTMAS.mdlx- name: obj\M_EX790_CHRISTMAS_NM.mdlx  method: copy  source:  - name: obj\M_EX790_CHRISTMAS_NM.mdlx- name: obj\M_EX790_GM.mdlx  method: copy  source:  - name: obj\M_EX790_GM.mdlx- name: obj\M_EX790_HALLOWEEN.mdlx  method: copy  source:  - name: obj\M_EX790_HALLOWEEN.mdlx- name: obj\M_EX790_HALLOWEEN_NM.mdlx  method: copy  source:  - name: obj\M_EX790_HALLOWEEN_NM.mdlx- name: menu\fm\jmface_heart.2ld  method: copy  source:  - name: menu\fm\jmface_heart.2ld- name: menu\fm\jmface_heart.fac  method: copy  source:  - name: menu\fm\jmface_heart.fac- name: menu\fm\jmface_no.2ld  method: copy  source:  - name: menu\fm\jmface_no.2ld- name: menu\fm\jmface_no.fac  method: copy  source:  - name: menu\fm\jmface_no.fac
+title: Vanilla KH2 Heartless Texture Pack
+originalAuthor: Tomk1004
+description: Replaces all Heartless that had their texture changed in KH2FM back to their original KH2 Vanilla textures
+assets:
+- name: obj\B_BB100.mdlx
+  method: copy
+  source:
+  - name: obj\B_BB100.mdlx
+- name: obj\B_BB100_GM.mdlx
+  method: copy
+  source:
+  - name: obj\B_BB100_GM.mdlx
+- name: obj\B_BB100_TSURU.mdlx
+  method: copy
+  source:
+  - name: obj\B_BB100_TSURU.mdlx
+- name: obj\B_CA000.mdlx
+  method: copy
+  source:
+  - name: obj\B_CA000.mdlx
+- name: obj\B_CA050.mdlx
+  method: copy
+  source:
+  - name: obj\B_CA050.mdlx
+- name: obj\B_CA050_GM.mdlx
+  method: copy
+  source:
+  - name: obj\B_CA050_GM.mdlx
+- name: obj\B_CA060.mdlx
+  method: copy
+  source:
+  - name: obj\B_CA060.mdlx
+- name: obj\B_LK120.mdlx
+  method: copy
+  source:
+  - name: obj\B_LK120.mdlx
+- name: obj\B_LK120_GM.mdlx
+  method: copy
+  source:
+  - name: obj\B_LK120_GM.mdlx
+- name: obj\B_MU120.mdlx
+  method: copy
+  source:
+  - name: obj\B_MU120.mdlx
+- name: obj\B_MU120_GM.mdlx
+  method: copy
+  source:
+  - name: obj\B_MU120_GM.mdlx
+- name: obj\B_NM100.mdlx
+  method: copy
+  source:
+  - name: obj\B_NM100.mdlx
+- name: obj\B_NM100_GM.mdlx
+  method: copy
+  source:
+  - name: obj\B_NM100_GM.mdlx
+- name: obj\M_AL020_FIRE.mdlx
+  method: copy
+  source:
+  - name: obj\M_AL020_FIRE.mdlx
+- name: obj\M_AL020_FIRE2.mdlx
+  method: copy
+  source:
+  - name: obj\M_AL020_FIRE2.mdlx
+- name: obj\M_AL020_FIRE_RAW.mdlx
+  method: copy
+  source:
+  - name: obj\M_AL020_FIRE_RAW.mdlx
+- name: obj\M_AL020_ICEE.mdlx
+  method: copy
+  source:
+  - name: obj\M_AL020_ICEE.mdlx
+- name: obj\M_AL020_ICEE2.mdlx
+  method: copy
+  source:
+  - name: obj\M_AL020_ICEE2.mdlx
+- name: obj\M_AL020_ICEE_RAW.mdlx
+  method: copy
+  source:
+  - name: obj\M_AL020_ICEE_RAW.mdlx
+- name: obj\M_BB010_AX.mdlx
+  method: copy
+  source:
+  - name: obj\M_BB010_AX.mdlx
+- name: obj\M_BB010_SWORD.mdlx
+  method: copy
+  source:
+  - name: obj\M_BB010_SWORD.mdlx
+- name: obj\M_EX010.mdlx
+  method: copy
+  source:
+  - name: obj\M_EX010.mdlx
+- name: obj\M_EX010_NM.mdlx
+  method: copy
+  source:
+  - name: obj\M_EX010_NM.mdlx
+- name: obj\M_EX010_TR.mdlx
+  method: copy
+  source:
+  - name: obj\M_EX010_TR.mdlx
+- name: obj\M_EX010_WI.mdlx
+  method: copy
+  source:
+  - name: obj\M_EX010_WI.mdlx
+- name: obj\M_EX020.mdlx
+  method: copy
+  source:
+  - name: obj\M_EX020.mdlx
+- name: obj\M_EX020_NM.mdlx
+  method: copy
+  source:
+  - name: obj\M_EX020_NM.mdlx
+- name: obj\M_EX020_NM_RAW.mdlx
+  method: copy
+  source:
+  - name: obj\M_EX020_NM_RAW.mdlx
+- name: obj\M_EX020_RAW.mdlx
+  method: copy
+  source:
+  - name: obj\M_EX020_RAW.mdlx
+- name: obj\M_EX020_WI.mdlx
+  method: copy
+  source:
+  - name: obj\M_EX020_WI.mdlx
+- name: obj\M_EX020_WI_RAW.mdlx
+  method: copy
+  source:
+  - name: obj\M_EX020_WI_RAW.mdlx
+- name: obj\M_EX050.mdlx
+  method: copy
+  source:
+  - name: obj\M_EX050.mdlx
+- name: obj\M_EX050_WI.mdlx
+  method: copy
+  source:
+  - name: obj\M_EX050_WI.mdlx
+- name: obj\M_EX060.mdlx
+  method: copy
+  source:
+  - name: obj\M_EX060.mdlx
+- name: obj\M_EX090_MATSU.mdlx
+  method: copy
+  source:
+  - name: obj\M_EX090_MATSU.mdlx
+- name: obj\M_EX110.mdlx
+  method: copy
+  source:
+  - name: obj\M_EX110.mdlx
+- name: obj\M_EX120.mdlx
+  method: copy
+  source:
+  - name: obj\M_EX120.mdlx
+- name: obj\M_EX120_NM.mdlx
+  method: copy
+  source:
+  - name: obj\M_EX120_NM.mdlx
+- name: obj\M_EX120_TR.mdlx
+  method: copy
+  source:
+  - name: obj\M_EX120_TR.mdlx
+- name: obj\M_EX130.mdlx
+  method: copy
+  source:
+  - name: obj\M_EX130.mdlx
+- name: obj\M_EX130_AL.mdlx
+  method: copy
+  source:
+  - name: obj\M_EX130_AL.mdlx
+- name: obj\M_EX200.mdlx
+  method: copy
+  source:
+  - name: obj\M_EX200.mdlx
+- name: obj\M_EX200_NM.mdlx
+  method: copy
+  source:
+  - name: obj\M_EX200_NM.mdlx
+- name: obj\M_EX210.mdlx
+  method: copy
+  source:
+  - name: obj\M_EX210.mdlx
+- name: obj\M_EX310_NPC.mdlx
+  method: copy
+  source:
+  - name: obj\M_EX310_NPC.mdlx
+- name: obj\M_EX320_NPC.mdlx
+  method: copy
+  source:
+  - name: obj\M_EX320_NPC.mdlx
+- name: obj\M_EX350.mdlx
+  method: copy
+  source:
+  - name: obj\M_EX350.mdlx
+- name: obj\M_EX420.mdlx
+  method: copy
+  source:
+  - name: obj\M_EX420.mdlx
+- name: obj\M_EX420_NM.mdlx
+  method: copy
+  source:
+  - name: obj\M_EX420_NM.mdlx
+- name: obj\M_EX500.mdlx
+  method: copy
+  source:
+  - name: obj\M_EX500.mdlx
+- name: obj\M_EX500_GM.mdlx
+  method: copy
+  source:
+  - name: obj\M_EX500_GM.mdlx
+- name: obj\M_EX500_NM.mdlx
+  method: copy
+  source:
+  - name: obj\M_EX500_NM.mdlx
+- name: obj\M_EX510.mdlx
+  method: copy
+  source:
+  - name: obj\M_EX510.mdlx
+- name: obj\M_EX520.mdlx
+  method: copy
+  source:
+  - name: obj\M_EX520.mdlx
+- name: obj\M_EX520_AL.mdlx
+  method: copy
+  source:
+  - name: obj\M_EX520_AL.mdlx
+- name: obj\M_EX530.mdlx
+  method: copy
+  source:
+  - name: obj\M_EX530.mdlx
+- name: obj\M_EX530_TR.mdlx
+  method: copy
+  source:
+  - name: obj\M_EX530_TR.mdlx
+- name: obj\M_EX540.mdlx
+  method: copy
+  source:
+  - name: obj\M_EX540.mdlx
+- name: obj\M_EX540_WI.mdlx
+  method: copy
+  source:
+  - name: obj\M_EX540_WI.mdlx
+- name: obj\M_EX550.mdlx
+  method: copy
+  source:
+  - name: obj\M_EX550.mdlx
+- name: obj\M_EX560.mdlx
+  method: copy
+  source:
+  - name: obj\M_EX560.mdlx
+- name: obj\M_EX570.mdlx
+  method: copy
+  source:
+  - name: obj\M_EX570.mdlx
+- name: obj\M_EX580.mdlx
+  method: copy
+  source:
+  - name: obj\M_EX580.mdlx
+- name: obj\M_EX590.mdlx
+  method: copy
+  source:
+  - name: obj\M_EX590.mdlx
+- name: obj\M_EX620.mdlx
+  method: copy
+  source:
+  - name: obj\M_EX620.mdlx
+- name: obj\M_EX620_AL.mdlx
+  method: copy
+  source:
+  - name: obj\M_EX620_AL.mdlx
+- name: obj\M_EX630.mdlx
+  method: copy
+  source:
+  - name: obj\M_EX630.mdlx
+- name: obj\M_EX640.mdlx
+  method: copy
+  source:
+  - name: obj\M_EX640.mdlx
+- name: obj\M_EX640_WI.mdlx
+  method: copy
+  source:
+  - name: obj\M_EX640_WI.mdlx
+- name: obj\M_EX650.mdlx
+  method: copy
+  source:
+  - name: obj\M_EX650.mdlx
+- name: obj\M_EX650_TR.mdlx
+  method: copy
+  source:
+  - name: obj\M_EX650_TR.mdlx
+- name: obj\M_EX670.mdlx
+  method: copy
+  source:
+  - name: obj\M_EX670.mdlx
+- name: obj\M_EX680.mdlx
+  method: copy
+  source:
+  - name: obj\M_EX680.mdlx
+- name: obj\M_EX690.mdlx
+  method: copy
+  source:
+  - name: obj\M_EX690.mdlx
+- name: obj\M_EX700.mdlx
+  method: copy
+  source:
+  - name: obj\M_EX700.mdlx
+- name: obj\M_EX700_NM.mdlx
+  method: copy
+  source:
+  - name: obj\M_EX700_NM.mdlx
+- name: obj\M_EX710.mdlx
+  method: copy
+  source:
+  - name: obj\M_EX710.mdlx
+- name: obj\M_EX720.mdlx
+  method: copy
+  source:
+  - name: obj\M_EX720.mdlx
+- name: obj\M_EX730.mdlx
+  method: copy
+  source:
+  - name: obj\M_EX730.mdlx
+- name: obj\M_EX740.mdlx
+  method: copy
+  source:
+  - name: obj\M_EX740.mdlx
+- name: obj\M_EX750.mdlx
+  method: copy
+  source:
+  - name: obj\M_EX750.mdlx
+- name: obj\M_EX750_NM.mdlx
+  method: copy
+  source:
+  - name: obj\M_EX750_NM.mdlx
+- name: obj\M_EX760.mdlx
+  method: copy
+  source:
+  - name: obj\M_EX760.mdlx
+- name: obj\M_EX760_CROWD.mdlx
+  method: copy
+  source:
+  - name: obj\M_EX760_CROWD.mdlx
+- name: obj\M_EX760_NM.mdlx
+  method: copy
+  source:
+  - name: obj\M_EX760_NM.mdlx
+- name: obj\M_EX760_NM_RAW.mdlx
+  method: copy
+  source:
+  - name: obj\M_EX760_NM_RAW.mdlx
+- name: obj\M_EX760_NPC.mdlx
+  method: copy
+  source:
+  - name: obj\M_EX760_NPC.mdlx
+- name: obj\M_EX760_RAW.mdlx
+  method: copy
+  source:
+  - name: obj\M_EX760_RAW.mdlx
+- name: obj\M_EX770.mdlx
+  method: copy
+  source:
+  - name: obj\M_EX770.mdlx
+- name: obj\M_EX770_NPC.mdlx
+  method: copy
+  source:
+  - name: obj\M_EX770_NPC.mdlx
+- name: obj\M_EX770_RAW.mdlx
+  method: copy
+  source:
+  - name: obj\M_EX770_RAW.mdlx
+- name: obj\M_EX770_TR.mdlx
+  method: copy
+  source:
+  - name: obj\M_EX770_TR.mdlx
+- name: obj\M_EX770_TR_RAW.mdlx
+  method: copy
+  source:
+  - name: obj\M_EX770_TR_RAW.mdlx
+- name: obj\M_EX780.mdlx
+  method: copy
+  source:
+  - name: obj\M_EX780.mdlx
+- name: obj\M_EX790.mdlx
+  method: copy
+  source:
+  - name: obj\M_EX790.mdlx
+- name: obj\M_EX790_CHRISTMAS.mdlx
+  method: copy
+  source:
+  - name: obj\M_EX790_CHRISTMAS.mdlx
+- name: obj\M_EX790_CHRISTMAS_NM.mdlx
+  method: copy
+  source:
+  - name: obj\M_EX790_CHRISTMAS_NM.mdlx
+- name: obj\M_EX790_GM.mdlx
+  method: copy
+  source:
+  - name: obj\M_EX790_GM.mdlx
+- name: obj\M_EX790_HALLOWEEN.mdlx
+  method: copy
+  source:
+  - name: obj\M_EX790_HALLOWEEN.mdlx
+- name: obj\M_EX790_HALLOWEEN_NM.mdlx
+  method: copy
+  source:
+  - name: obj\M_EX790_HALLOWEEN_NM.mdlx
+- name: menu\fm\jmface_heart.2ld
+  method: copy
+  source:
+  - name: menu\fm\jmface_heart.2ld
+- name: menu\fm\jmface_heart.fac
+  method: copy
+  source:
+  - name: menu\fm\jmface_heart.fac
+- name: menu\fm\jmface_no.2ld
+  method: copy
+  source:
+  - name: menu\fm\jmface_no.2ld
+- name: menu\fm\jmface_no.fac
+  method: copy
+  source:
+  - name: menu\fm\jmface_no.fac
